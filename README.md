@@ -1,1 +1,0 @@
-# Teach_SQL_JOIN
